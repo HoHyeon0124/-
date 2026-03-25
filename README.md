@@ -1,5 +1,9 @@
 # 김호현 | Backend / Fullstack Developer Portfolio
 
+<p align="center">
+  <img src="./images/profile.jpg" alt="김호현 증명사진" width="180" />
+</p>
+
 안녕하세요.  
 사용자 문제를 해결하는 서비스를 직접 만들고,  
 데이터 분석부터 백엔드 API, 프론트엔드 구현까지 연결하는 개발자 **김호현**입니다.
