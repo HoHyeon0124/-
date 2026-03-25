@@ -1,7 +1,7 @@
 # 김호현 | Backend / Fullstack Developer Portfolio
 
 <p align="center">
-  <img src="./images/profile.jpg" alt="김호현 증명사진" width="180" />
+  <img src="./images/증명사진.jpg" alt="김호현 증명사진" width="180" />
 </p>
 
 안녕하세요.  
