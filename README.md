@@ -346,9 +346,9 @@ GitHub, Slack, Notion을 활용하며 팀원 간 역할 분담과 진행 상황 
 ## 📬 Contact
 
 - Name: 김호현
-- GitHub: [여기에 GitHub 주소 입력]
-- Email: [여기에 이메일 입력]
-- Blog / Portfolio: [여기에 링크 입력]
+- GitHub: [https://github.com/HoHyeon0124]
+- Email: [sdnsp0124@gmail.com]
+- Blog / Portfolio: [https://drive.google.com/drive/folders/14pHQoseu5OFfkUb36Sl82Uqv6l-dReNz]
 
 ---
 
